@@ -1,6 +1,6 @@
 Rubber Ducky project for documents attack.
 
-This project was used with hak5darren rubber ducky attack.
+This projects was used with hak5darren rubber ducky attack.
 
 This will need to be on a Mac Only. Was working on Mac OS X Mojave.
 
